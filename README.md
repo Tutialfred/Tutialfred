@@ -1,4 +1,4 @@
-Hi, Welcome to my profile 🙋🏻‍♂️
+Welcome to my profile 🙋🏻‍♂️
 
 - 👋🏻 Hi, I’m @Tutialfred
 - 👀 I’m interested in Backend 
