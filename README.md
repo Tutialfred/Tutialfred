@@ -7,5 +7,6 @@ Welcome to my profile 🙋🏻‍♂️
 
 
 
+![programando](https://user-images.githubusercontent.com/106350481/195253792-bf9bd2b2-af36-43a0-aac1-4af370be1501.gif)
 
-![dplnews_inteligencia-artificial_mc100921](https://user-images.githubusercontent.com/106350481/195252773-64854c64-c3c9-438b-9be2-084e785c0f70.gif)
+
