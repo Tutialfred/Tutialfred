@@ -1,10 +1,10 @@
 Welcome to my profile 🙋🏻‍♂️
 
 - 👋🏻 Hi, I’m @Tutialfred
-- 👀 I’m interested in Backend 
-- 🌱 I’m currently learning English and Web3
-- 💼 Study in soyHerny https://www.soyhenry.com/
-- 🤺 Collection of NFT https://ar.lemon.me/$tutialfred
+- 👀 I’m Interested in Backend 
+- 🌱 I’m Currently learning English and Web3
+- 💼 I’m Study in soyHerny https://www.soyhenry.com/
+- 🤺 My Collection of NFT https://ar.lemon.me/$tutialfred
 
 
 
