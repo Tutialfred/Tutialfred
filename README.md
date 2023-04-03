@@ -14,7 +14,7 @@ Welcome to my profile 🙋🏻‍♂️
 
 
 
-![part1](https://user-images.githubusercontent.com/106350481/199904997-911001ff-95ee-4449-9a14-380826aadd41.PNG)
+[![part1](https://user-images.githubusercontent.com/106350481/199904997-911001ff-95ee-4449-9a14-380826aadd41.PNG)](https://pbs.twimg.com/media/FrPG7PQWcAAxRGv?format=jpg&name=large)
 ![part2](https://user-images.githubusercontent.com/106350481/199905025-14c9cb6a-455a-400f-958e-e89e0f42ee8b.PNG)
 ![programando](https://user-images.githubusercontent.com/106350481/195253792-bf9bd2b2-af36-43a0-aac1-4af370be1501.gif)
 
