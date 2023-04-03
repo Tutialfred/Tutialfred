@@ -15,7 +15,9 @@ Welcome to my profile 🙋🏻‍♂️
 
 
 ![aaaaaaaaasd](https://user-images.githubusercontent.com/106350481/229540915-83bcbc41-25e5-4c23-8349-0f7e658861ac.PNG)
-![part2](https://user-images.githubusercontent.com/106350481/199905025-14c9cb6a-455a-400f-958e-e89e0f42ee8b.PNG)
+![eeeeeeeeee](https://user-images.githubusercontent.com/106350481/229541441-a88b7eb5-0378-4056-bb51-adfccfd8e0da.PNG)
+![ddddddasdad](https://user-images.githubusercontent.com/106350481/229541482-2e1c1d0e-910c-4bbe-a3fb-c75dbca16a01.PNG)
+
 ![programando](https://user-images.githubusercontent.com/106350481/195253792-bf9bd2b2-af36-43a0-aac1-4af370be1501.gif)
 
 
