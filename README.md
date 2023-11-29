@@ -1,6 +1,6 @@
 Welcome to my profile in Git Hub 🙋🏻‍♂️
 
-✓ 👀 I’m Interested in Backend 
+✓ 👀 I’m Interested in Backend and Frontend
 
 ✓ 🌱 I’m Currently learning English
 
